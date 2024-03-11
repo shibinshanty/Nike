@@ -1,0 +1,16 @@
+.navbar{
+background-color:#F5F5F5;
+height:28px;
+display: flex;
+}
+.jordan{
+height:24px;
+width:24px;
+margin-left:35px;
+}
+.find{
+margin-left:auto;
+}
+.sign{
+margin-right:150px;
+}
