@@ -77,3 +77,19 @@ height:24px;
 width:24px;
 margin-top:20px; 
 }
+.offer{
+background-color: #F5F5F5;
+height:85px;
+padding-top:10px;
+}
+.saveup{
+text-align: center;
+font-family: Helvetica;
+font-size:16px;
+}
+.shop{
+text-align: center;
+font-family: Helvetica;
+text-decoration: underline;
+font-size: 12px;
+}
