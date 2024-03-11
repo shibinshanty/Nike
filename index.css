@@ -14,3 +14,66 @@ margin-left:auto;
 .sign{
 margin-right:150px;
 }
+.second{
+display: flex;
+height:75px;
+background-color:white; 
+}
+.search{
+margin-left:auto;
+}
+.new{
+margin-left:300px;
+font-family: Helvetica;
+font-size:16px;
+}
+.men{
+margin-left:20px;
+font-family: Helvetica;
+font-size:16px;
+}
+.women{
+margin-left:20px;
+font-family: Helvetica;
+font-size:16px;
+}
+.kids{
+margin-left:20px;
+font-family: Helvetica;
+font-size:16px;
+}
+.sale{
+margin-left:20px;
+font-family: Helvetica;
+font-size:16px;
+}
+.customize{
+margin-left:20px;
+font-family: Helvetica;
+font-size:16px;
+}
+.snkrs{
+margin-left:20px;
+font-family: Helvetica;
+font-size:16px;
+}
+.nike{
+margin-left:70px;
+}
+.search{
+border-radius:20px;
+height:30px;
+margin-left:120px;
+}
+.heart{
+margin-top:20px; 
+margin-left:65px;
+height:24px;
+width:24px;
+}
+.bag{
+margin-left:25px;
+height:24px;
+width:24px;
+margin-top:20px; 
+}
